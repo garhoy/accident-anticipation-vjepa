@@ -1,0 +1,927 @@
+{
+  "video_name": "QeuzUfHIWYU_003673",
+  "channel": "CarCrashesTime",
+  "num_frames": 55,
+  "ignore": false,
+  "ego_involve": true,
+  "night": false,
+  "anomaly_start": 11,
+  "anomaly_end": 33,
+  "video_start": 3673,
+  "video_end": 3727,
+  "accident_id": "5",
+  "accident_name": "turning",
+  "labels": [
+    {
+      "frame_id": 0,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000000.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 1,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000001.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 2,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000002.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 3,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000003.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 4,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000004.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 5,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000005.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 6,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000006.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 7,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000007.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 8,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000008.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 9,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000009.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 10,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000010.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 11,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000011.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            988.6186540731995,
+            491.3341204250295,
+            1206.2337662337661,
+            676.646989374262
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            1077.874852420307,
+            418.2290436835891,
+            1161.1806375442738,
+            626.4935064935065
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000012.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            925.7142857142857,
+            489.63400236127507,
+            1202.8335301062573,
+            720.0
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            1041.3223140495868,
+            396.1275088547816,
+            1150.9799291617474,
+            646.8949232585596
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000013.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            826.2573789846517,
+            495.5844155844156,
+            1182.4321133412043,
+            720.0
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            984.3683589138134,
+            371.47579693034237,
+            1139.0791027154662,
+            696.1983471074379
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000014.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            712.349468713105,
+            519.3860684769776,
+            1134.8288075560802,
+            720.0
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            836.4580873671782,
+            348.52420306965763,
+            1054.9232585596221,
+            708.9492325855962
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000015.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            511.73553719008265,
+            458.1818181818182,
+            1065.9740259740258,
+            719.1499409681228
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            650.2951593860685,
+            324.7225501770956,
+            940.1652892561983,
+            720.0
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000016.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            408.87839433293976,
+            447.98110979929163,
+            945.2656434474616,
+            719.1499409681228
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            387.35751295336786,
+            262.668240850059,
+            731.9008264462809,
+            720.0
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000017.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            340.0236127508855,
+            613.7426210153483,
+            764.2030696576151,
+            719.1499409681228
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            119.85832349468713,
+            295.8205430932704,
+            639.2443919716646,
+            720.0
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000018.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            340.0236127508855,
+            644.344746162928,
+            714.8996458087368,
+            719.1499409681228
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            306.87131050767414,
+            668.14639905549,
+            663.8961038961039
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000019.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            328.97284533648167,
+            606.9421487603306,
+            698.7485242030697,
+            719.1499409681228
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            285.6198347107438,
+            617.9929161747343,
+            663.8961038961039
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000020.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            313.67178276269186,
+            582.2904368358913,
+            639.2443919716646,
+            715.749704840614
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            22.101534828807555,
+            188.71310507674144,
+            419.9291617473435,
+            695.3482880755607
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000021.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            287.31995277449823,
+            538.0873671782763,
+            595.8913813459268,
+            691.0979929161747
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            359.5749704840614,
+            248.2172373081464,
+            695.3482880755607
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000022.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            298.370720188902,
+            552.5383707201889,
+            570.3896103896104,
+            696.1983471074379
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            546.5879574970484,
+            283.91971664698934,
+            695.3482880755607
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000023.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            319.6221959858323,
+            553.3884297520661,
+            551.6883116883116,
+            685.1475796930342
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            595.0413223140496,
+            238.86658795749705,
+            687.6977567886659
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000024.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            338.323494687131,
+            556.788665879575,
+            555.9386068476978,
+            663.8961038961039
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            572.0897284533648,
+            232.06611570247932,
+            687.6977567886659
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000025.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            353.6245572609209,
+            555.0885478158206,
+            559.3388429752066,
+            649.4451003541913
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            560.1889020070838,
+            148.7603305785124,
+            676.646989374262
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000026.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            558.4887839433294,
+            134.30932703659977,
+            680.047225501771
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            366.37544273907906,
+            545.7378984651712,
+            559.3388429752066,
+            637.5442739079102
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000027.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            568.6894923258559,
+            132.60920897284532,
+            680.047225501771
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            375.72609208972847,
+            520.2361275088548,
+            554.2384887839434,
+            615.4427390791027
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000028.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            562.7390791027154,
+            136.00944510035418,
+            680.047225501771
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            379.1263282172373,
+            519.3860684769776,
+            549.13813459268,
+            608.642266824085
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000029.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            535.5371900826447,
+            62.0543093270366,
+            680.047225501771
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            382.52656434474613,
+            525.336481700118,
+            546.5879574970484,
+            606.0920897284533
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000030.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 131,
+          "bbox": [
+            0,
+            620.543093270366,
+            68.8547815820543,
+            680.047225501771
+          ],
+          "category": "rider",
+          "category ID": 2,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            382.52656434474613,
+            506.63518299881935,
+            539.7874852420307,
+            595.8913813459268
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000031.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            379.9763872491145,
+            500.68476977567883,
+            532.1369539551357,
+            592.491145218418
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000032.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            376.5761511216057,
+            500.68476977567883,
+            527.0365997638725,
+            592.491145218418
+          ],
+          "category": "motor",
+          "category ID": 7,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000033.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 34,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000034.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 35,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000035.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 36,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000036.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 37,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000037.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 38,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000038.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 39,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000039.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 40,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000040.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 41,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000041.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 42,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000042.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 43,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000043.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 44,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000044.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 45,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000045.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 46,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000046.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 47,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000047.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 48,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000048.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 49,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000049.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 50,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000050.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 51,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000051.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 52,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000052.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 53,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000053.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 54,
+      "image_path": "frames/QeuzUfHIWYU_003673/images/000054.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    }
+  ]
+}

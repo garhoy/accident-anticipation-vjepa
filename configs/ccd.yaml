@@ -1,0 +1,54 @@
+dataset:
+  name: CCD
+  dataset_version: official
+
+  root: data/raw/CCD
+  positives_dir: data/raw/CCD/Crash-1500
+  negatives_dir: data/raw/CCD/Normal
+  crash_txt:     data/metadata/CCD/Crash-1500.txt
+
+  official_train_list: data/metadata/CCD/train.txt
+  official_test_list:  data/metadata/CCD/test.txt
+
+  meta_csv: data/metadata/CCD/ccd_meta.csv
+
+  use_official_splits: true
+  splits:
+    train_ids: data/metadata/CCD/splits_ccd/train_ids.txt
+    val_ids:   data/metadata/CCD/splits_ccd/val_ids.txt
+    test_ids:  data/metadata/CCD/splits_ccd/test_ids.txt
+  make_val_size: 0.2
+  seed: 42
+
+extract:
+  out_dir: data_exp/vjepa2_l16s8_f10/ccd
+  fps: 10
+  clip_len: 16
+  stride: 8
+  pos_pre_s: 3.0
+  pos_post_s: 1.0
+  neg_mode: center
+  device: cuda:0
+  batch_size: 16
+
+model:
+  head: avgpool
+  embed_dim: 1024
+
+train:
+  epochs: 50
+  batch_size: 64
+  lr: 0.001
+  weight_decay: 0.0001
+  anticipation_windows_s: [1.0, 2.0, 3.0, 5.0]
+  window_s: 3.0
+  post_window_s: 1.0
+
+eval:
+  protocol: ccd-bin50
+  tta_recalls: [0.8, 0.9]
+  save_dir: exp/ccd/vjepa2_l16s8_f10/ccd-bin50/seed42
+
+notes: |
+  CCD: vídeos trimmed de 5 s @10 fps (50 bins). Negativos: BDD100K.
+  Usamos split oficial (train.txt/test.txt) y hacemos val=20% de train (seed=42).

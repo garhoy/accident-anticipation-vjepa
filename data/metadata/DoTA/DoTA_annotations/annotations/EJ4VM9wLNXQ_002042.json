@@ -1,0 +1,1630 @@
+{
+  "video_name": "EJ4VM9wLNXQ_002042",
+  "channel": "AnAn",
+  "num_frames": 94,
+  "ignore": false,
+  "ego_involve": true,
+  "night": false,
+  "anomaly_start": 15,
+  "anomaly_end": 71,
+  "video_start": 2042,
+  "video_end": 2135,
+  "accident_id": "2",
+  "accident_name": "moving_ahead_or_waiting",
+  "labels": [
+    {
+      "frame_id": 0,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000000.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 1,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000001.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 2,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000002.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 3,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000003.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 4,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000004.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 5,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000005.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 6,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000006.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 7,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000007.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 8,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000008.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 9,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000009.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 10,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000010.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 11,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000011.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 12,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000012.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 13,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000013.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 14,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000014.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 15,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000015.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            145.91194346208366,
+            412.6624549140656,
+            438.57440477396415,
+            609.7274360266499
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000016.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            141.71907152351804,
+            413.11985912554553,
+            441.4712981133368,
+            609.6512019914032
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000017.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            140.0419227480918,
+            413.57726333702544,
+            444.36819145270937,
+            609.5749679561566
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000018.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            141.71907152351804,
+            414.0346675485053,
+            447.265084792082,
+            609.4987339209099
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000019.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            144.2347946866574,
+            414.49207175998515,
+            450.1619781314546,
+            609.4224998856632
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000020.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            146.75051784979678,
+            414.94947597146506,
+            453.05887147082717,
+            609.3462658504166
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000021.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            155.13626172692804,
+            415.406880182945,
+            455.95576481019987,
+            609.27003181517
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000022.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            163.10271841020273,
+            415.8642843944249,
+            458.85265814957245,
+            609.1937977799234
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000023.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            171.0691750934774,
+            416.32168860590474,
+            461.74955148894503,
+            609.1175637446768
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000024.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            180.85254295013053,
+            416.7790928173846,
+            464.6464448283176,
+            609.0413297094301
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000025.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            190.63591080678364,
+            417.2364970288645,
+            467.5433381676903,
+            608.9650956741834
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000026.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            200.41927866343676,
+            417.69390124034436,
+            470.4402315070629,
+            608.8888616389368
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000027.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            210.48217131599426,
+            418.5324756280575,
+            474.63310344562854,
+            604.6959897003711
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000028.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            221.38363835626487,
+            418.5324756280575,
+            478.8259753841942,
+            600.5031177618055
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000029.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            233.12367978424862,
+            421.04819879119685,
+            482.1802729350466,
+            598.8259689863793
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000030.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            242.34799804909298,
+            421.88677317891,
+            486.3731448736122,
+            598.8259689863793
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000031.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            253.2494650893636,
+            421.04819879119685,
+            491.404591199891,
+            597.9873945986661
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000032.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            263.3123577419211,
+            422.3060603727665,
+            495.59746313845665,
+            594.6330970478136
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000033.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            273.3752503944786,
+            423.56392195433625,
+            499.7903350770223,
+            591.2787994969611
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000034.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            281.4255645165246,
+            424.8217835359059,
+            503.98320701558794,
+            587.9245019461086
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000035.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            289.47587863857063,
+            426.0796451174756,
+            508.1760789541535,
+            584.5702043952562
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000036.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            298.53248202587235,
+            421.7470107809578,
+            512.3689508927191,
+            581.2159068444037
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000037.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            301.88677957672485,
+            421.88677317891,
+            516.5618228312848,
+            586.2473531706823
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000038.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            300.2096308012986,
+            421.88677317891,
+            521.1739819637069,
+            587.9245019461086
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000039.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            298.53248202587235,
+            421.88677317891,
+            525.7861410961291,
+            589.6016507215348
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000040.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            293.50103569959356,
+            421.88677317891,
+            530.3983002285513,
+            598.8259689863793
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000041.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            283.4381430470361,
+            421.88677317891,
+            535.0104593609734,
+            608.8888616389368
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000042.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            268.34380406819986,
+            417.69390124034436,
+            537.5261825241129,
+            613.9203079652154
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000043.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            241.0901364675233,
+            416.8553268526312,
+            539.6226184933956,
+            629.4339341379083
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000044.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            213.83646886684676,
+            405.95385981236063,
+            541.7190544626784,
+            644.9475603106011
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000045.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            172.74632386890366,
+            394.21381838437685,
+            545.0733520135309,
+            639.0775395966092
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000046.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            118.65827586140713,
+            387.50522328267186,
+            546.7505007889571,
+            649.1404322491667
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000047.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            64.5702278539106,
+            380.7966281809669,
+            548.4276495643834,
+            659.2033249017243
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000048.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            8.385743877131246,
+            434.4653889946068,
+            561.8448397677935,
+            686.8762796962574
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 49,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000049.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            17.610062141975614,
+            353.9622477741469,
+            568.5534348694985,
+            619.7903286792074
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 50,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000050.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            42.76729377336935,
+            354.80082216186,
+            568.5534348694985,
+            637.400390821183
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 51,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000051.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            72.95597173104183,
+            392.5366696089506,
+            576.1006043589166,
+            655.8490273508718
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 52,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000052.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            110.69181917813245,
+            400.9224134860819,
+            581.5513378790519,
+            650.817581024593
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            166.8763031549118,
+            418.5324756280575,
+            246.54086998765862,
+            481.42555470654185
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 53,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000053.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            148.42766662522305,
+            399.24526471065565,
+            587.0020713991871,
+            645.7861346983142
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            155.97483611464116,
+            412.6624549140656,
+            270.8595272313392,
+            496.51989368537807
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 54,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000054.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            185.74422687845708,
+            398.4066903229425,
+            587.0020713991871,
+            644.9475603106011
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            140.88049713580492,
+            406.7924342000737,
+            290.9853125364542,
+            525.8699972553375
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 55,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000055.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            223.06078713169111,
+            397.56811593522934,
+            587.0020713991871,
+            644.108985922888
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            130.81760448324744,
+            407.6310085877869,
+            310.2725234538561,
+            540.9643362341736
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 56,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000056.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            258.2809114156423,
+            401.760987873795,
+            578.6163275220558,
+            632.3689444949043
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            125.78615815696868,
+            406.7924342000737,
+            327.8825855958317,
+            543.4800593973131
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 57,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000057.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            293.50103569959356,
+            405.95385981236063,
+            570.2305836449246,
+            620.6289030669205
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            119.07756305526368,
+            406.7924342000737,
+            343.81549896238107,
+            543.4800593973131
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 58,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000058.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            318.23898013713074,
+            408.4695829755,
+            572.746306808064,
+            604.6959897003711
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            114.04611672898494,
+            405.95385981236063,
+            350.52409406408606,
+            546.8343569481656
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 59,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000059.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            342.9769245746679,
+            410.9853061386394,
+            575.2620299712034,
+            588.7630763338218
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            111.53039356584556,
+            406.7924342000737,
+            374.00417692005357,
+            545.9957825604524
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 60,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000060.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            360.58698671664354,
+            413.5010293017787,
+            581.9706250729084,
+            582.0544812321168
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            107.33752162727994,
+            406.7924342000737,
+            386.5827927357504,
+            549.3500801113049
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 61,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000061.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            374.00417692005357,
+            410.9853061386394,
+            582.8091994606216,
+            575.3458861304118
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            108.38573961192134,
+            403.43813664922124,
+            392.6624570466705,
+            550.3982980959463
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 62,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000062.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            385.7442183480373,
+            412.6624549140656,
+            581.9706250729084,
+            565.2829934778542
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            109.01467040270619,
+            405.95385981236063,
+            398.7421213575907,
+            551.4465160805878
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 63,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000063.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            390.94337955185864,
+            415.01046319966235,
+            581.9706250729084,
+            563.7735595799707
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            110.48217558120416,
+            412.6624549140656,
+            410.901449979431,
+            552.4947340652292
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 64,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000064.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            396.14254075568005,
+            417.3584714852591,
+            581.9706250729084,
+            562.2641256820871
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            111.53039356584556,
+            416.0167524649181,
+            410.901449979431,
+            553.5429520498706
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 65,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000065.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            401.3417019595014,
+            419.7064797708559,
+            581.9706250729084,
+            560.7546917842035
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            109.85324479041931,
+            415.17817807720496,
+            416.7714706934229,
+            555.2201008252968
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 66,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000066.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            406.5408631633228,
+            422.0544880564526,
+            581.9706250729084,
+            559.2452578863198
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            110.48217558120416,
+            415.6673464700376,
+            417.19075788727946,
+            555.2480533048872
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 67,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000067.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            411.74002436714414,
+            424.40249634204935,
+            581.9706250729084,
+            557.7358239884362
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            111.111106371989,
+            416.1565148628703,
+            417.61004508113604,
+            555.2760057844777
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 68,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000068.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            413.83646033642697,
+            424.40249634204935,
+            581.9706250729084,
+            555.6393880191533
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            110.97134397403681,
+            416.20310232885436,
+            417.33052028523167,
+            554.8846710702115
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 69,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000069.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            415.9328963057098,
+            424.40249634204935,
+            581.9706250729084,
+            553.5429520498706
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            110.83158157608462,
+            416.24968979483845,
+            417.05099548932725,
+            554.4933363559454
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 70,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000070.jpg",
+      "accident_id": 2,
+      "accident_name": "moving_ahead_or_waiting",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            416.448942082764,
+            424.40249634204935,
+            581.9061193507766,
+            553.2849291613435
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 306,
+          "bbox": [
+            110.69181917813243,
+            416.2962772608225,
+            416.7714706934229,
+            554.1020016416793
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 71,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000071.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 72,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000072.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 73,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000073.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 74,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000074.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 75,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000075.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 76,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000076.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 77,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000077.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 78,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000078.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 79,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000079.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 80,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000080.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 81,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000081.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 82,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000082.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 83,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000083.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 84,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000084.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 85,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000085.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 86,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000086.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 87,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000087.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 88,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000088.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 89,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000089.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 90,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000090.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 91,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000091.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 92,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000092.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 93,
+      "image_path": "frames/EJ4VM9wLNXQ_002042/images/000093.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    }
+  ]
+}

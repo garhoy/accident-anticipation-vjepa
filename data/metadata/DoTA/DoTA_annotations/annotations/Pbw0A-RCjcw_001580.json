@@ -1,0 +1,1020 @@
+{
+  "video_name": "Pbw0A-RCjcw_001580",
+  "channel": "CarCrashesTime",
+  "num_frames": 49,
+  "ignore": false,
+  "ego_involve": false,
+  "night": false,
+  "anomaly_start": 12,
+  "anomaly_end": 49,
+  "video_start": 1580,
+  "video_end": 1628,
+  "accident_id": "6",
+  "accident_name": "pedestrian",
+  "labels": [
+    {
+      "frame_id": 0,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000000.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 1,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000001.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 2,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000002.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 3,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000003.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 4,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000004.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 5,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000005.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 6,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000006.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 7,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000007.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 8,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000008.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 9,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000009.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 10,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000010.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 11,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000011.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 12,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000012.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            75.81737849779087,
+            365.8321060382916,
+            154.28571428571428,
+            517.4668630338733
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000013.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            73.16642120765832,
+            357.3490427098675,
+            180.44182621502208,
+            528.0706921944035
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000014.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            70.51546391752578,
+            348.8659793814433,
+            206.59793814432987,
+            538.6745213549336
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000015.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            105.50810014727541,
+            345.68483063328426,
+            232.7540500736377,
+            549.2783505154639
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000016.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            136.25920471281296,
+            343.7761413843888,
+            331.5817378497791,
+            581.6957710919419
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000017.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            156.40648011782034,
+            338.2621502209131,
+            375.9057437407953,
+            597.752998106459
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000018.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            259.2636229749632,
+            346.7452135493373,
+            422.56259204712813,
+            613.8102251209762
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000019.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            323.94698085419736,
+            334.28571428571433,
+            514.8159057437408,
+            629.8674521354934
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000020.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            414.079528718704,
+            329.779086892489,
+            643.1222385861561,
+            636.2297496318114
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000021.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            574.1973490427099,
+            337.2017673048601,
+            684.4771723122238,
+            651.0751104565537
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000022.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            637.0260223048327,
+            333.6802973977695,
+            851.1524163568773,
+            642.3791821561338
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000023.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            743.1970260223048,
+            332.7881040892193,
+            943.9405204460967,
+            628.1040892193308
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            1048.3271375464685,
+            344.3866171003717,
+            1279.4052044609666,
+            648.6245353159851
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000024.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            873.457249070632,
+            339.9256505576208,
+            976.9516728624535,
+            637.0260223048327
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            978.7360594795539,
+            315.8364312267658,
+            1279.4052044609666,
+            640.5947955390335
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000025.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            896.6542750929368,
+            331.8959107806691,
+            1027.806691449814,
+            632.5650557620818
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            984.089219330855,
+            307.80669144981414,
+            1279.4052044609666,
+            636.1338289962825
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000026.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            815.4646840148699,
+            351.52416356877325,
+            1026.0223048327136,
+            542.453531598513
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            898.4386617100372,
+            322.97397769516726,
+            1279.4052044609666,
+            651.3011152416357
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000027.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            788.6988847583643,
+            332.7881040892193,
+            990.3345724907063,
+            503.19702602230484
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            876.1338289962825,
+            345.2788104089219,
+            1279.4052044609666,
+            651.3011152416357
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000028.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            780.6691449814126,
+            361.3382899628253,
+            940.3717472118959,
+            454.1263940520446
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            857.3977695167287,
+            359.5539033457249,
+            1279.4052044609666,
+            637.9182156133829
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000029.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            748.550185873606,
+            354.20074349442376,
+            903.7918215613382,
+            474.64684014869886
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            844.0148698884758,
+            364.01486988847586,
+            1253.5315985130112,
+            626.3197026022304
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000030.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            736.0594795539033,
+            351.52416356877325,
+            886.8401486988847,
+            473.75464684014867
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            838.6617100371748,
+            365.35315985130114,
+            1228.996282527881,
+            615.1672862453531
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000031.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            753.0111524163568,
+            356.87732342007433,
+            854.7211895910781,
+            525.5018587360595
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            833.3085501858736,
+            366.6914498141264,
+            1204.4609665427508,
+            604.0148698884758
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000032.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            740.5204460966543,
+            410.4089219330855,
+            832.4163568773234,
+            529.9628252788104
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            833.3085501858736,
+            366.6914498141264,
+            1194.6468401486989,
+            596.8773234200744
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000033.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            710.1858736059479,
+            468.4014869888476,
+            835.9851301115242,
+            532.639405204461
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            835.9851301115242,
+            366.6914498141264,
+            1194.6468401486989,
+            593.3085501858736
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000034.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            711.9702602230483,
+            483.56877323420076,
+            830.631970260223,
+            526.3940520446097
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            835.9851301115242,
+            364.01486988847586,
+            1190.185873605948,
+            592.4163568773234
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000035.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            707.5092936802973,
+            465.724907063197,
+            820.817843866171,
+            525.5018587360595
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            841.3382899628252,
+            364.01486988847586,
+            1200.0,
+            594.2007434944238
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000036.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            695.0185873605948,
+            456.80297397769516,
+            820.817843866171,
+            515.6877323420074
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            845.7992565055762,
+            361.3382899628253,
+            1211.5985130111524,
+            597.7695167286246
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000037.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            688.7732342007434,
+            468.4014869888476,
+            811.8959107806692,
+            513.903345724907
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        },
+        {
+          "obj_track_id": 268,
+          "bbox": [
+            850.2602230483271,
+            361.3382899628253,
+            1221.4126394052043,
+            600.446096654275
+          ],
+          "category": "car",
+          "category ID": 3,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000038.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            691.449814126394,
+            479.1078066914498,
+            806.542750929368,
+            519.2565055762082
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000039.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            686.0966542750929,
+            481.7843866171004,
+            802.0817843866171,
+            513.0111524163568
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000040.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            687.8810408921933,
+            475.53903345724905,
+            805.6505576208178,
+            509.4423791821561
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000041.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            693.2342007434944,
+            475.53903345724905,
+            798.5130111524163,
+            509.4423791821561
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000042.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            690.5576208178438,
+            477.32342007434943,
+            793.1598513011153,
+            510.3345724907063
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000043.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            692.7881040892194,
+            475.98513011152414,
+            791.375464684015,
+            510.7806691449814
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000044.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            695.0185873605948,
+            474.64684014869886,
+            789.5910780669145,
+            511.2267657992565
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000045.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            701.2639405204461,
+            467.5092936802974,
+            787.8066914498141,
+            511.2267657992565
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000046.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            704.8327137546469,
+            461.2639405204461,
+            790.4832713754647,
+            508.5501858736059
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000047.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            704.8327137546469,
+            461.2639405204461,
+            790.4832713754647,
+            508.5501858736059
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "image_path": "frames/Pbw0A-RCjcw_001580/images/000048.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 745,
+          "bbox": [
+            704.8327137546469,
+            461.2639405204461,
+            790.4832713754647,
+            508.5501858736059
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    }
+  ]
+}

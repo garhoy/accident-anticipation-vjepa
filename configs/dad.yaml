@@ -1,0 +1,19 @@
+dataset:
+  name: DAD
+  root: data/raw/DAD/videos   # <- convertidos a 5s@20fps
+  pos_name: positive
+  neg_name: negative
+
+  meta_csv: data/metadata/DAD/dad_meta.csv
+
+  splits:
+    train_ids: data/metadata/DAD/splits/train_ids.txt
+    val_ids:   data/metadata/DAD/splits/val_ids.txt
+    test_ids:  data/metadata/DAD/splits/test_ids.txt
+  make_val_size: 0.2
+  seed: 42
+
+  extractor_csv:
+    training_train: data/metadata/DAD/extractor_csv/training_train.csv
+    training_val:   data/metadata/DAD/extractor_csv/training_val.csv
+    testing:        data/metadata/DAD/extractor_csv/testing.csv

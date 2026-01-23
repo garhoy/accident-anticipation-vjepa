@@ -1,0 +1,30 @@
+# === Rutas (ajusta a tu entorno) ===
+annotations_dir: "/home/agh/Desktop/Master Thesis/Experiments/V-JEPA 2/data/metadata/DoTA"
+frames_root:     "/media/agh/Crucial X6/TFM_DATASETS/DoTA/frames"
+meta_out_dir:    "/media/agh/Crucial X6/TFM_DATASETS/DoTA/metadata_out"
+
+# === Split interno (validation sale del TRAIN oficial) ===
+val_ratio: 0.2
+seed: 123
+
+# === Cinemática / tiempos (DoTA = 10 FPS) ===
+fps: 10.0
+hist_s: 5.0           # historia mínima que quieres alrededor del evento
+margin: 0.3           # colchón para que el negativo no roce el evento (seg)
+neg_window_s: 13.0    # límite “head” para muestrear negativos (no es obligatorio)
+
+# === Negativos del precursor ===
+k_negs: 1             # 1 = 'id__pre'; sube a 2–3 si quieres más balance
+min_neg_ctx_s: 1.6    # mínimo de contexto 'normal' para crear un negativo (~16/10 s)
+always_create_pre: false  # si true, crea __pre aunque no llegue a min_neg_ctx_s
+
+# === (Opcional) usar DoTA_annotations/annotations para filtrar por-vídeo ===
+use_per_video_annotations: true
+per_video_annotations_dir: "/home/agh/Desktop/Master Thesis/Experiments/V-JEPA 2/data/metadata/DoTA/DoTA_annotations/annotations"
+filter_ignore: true         # descarta vídeos con "ignore": true
+require_ego_involve: false  # pon true si quieres sólo ego_involve=true
+exclude_night: false        # pon true si no quieres 'night': true
+
+# === (Opcional) validación de frames en disco ===
+validate_frames: false      # si true, comprobará frames/<id>/images/ para TODOS los ids
+frames_subdir_name: "images"  # nombre de la subcarpeta que contiene las imágenes

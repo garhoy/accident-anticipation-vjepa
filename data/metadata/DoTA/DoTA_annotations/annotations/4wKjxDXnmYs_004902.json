@@ -1,0 +1,1014 @@
+{
+  "video_name": "4wKjxDXnmYs_004902",
+  "channel": "AnAn",
+  "num_frames": 59,
+  "ignore": false,
+  "ego_involve": true,
+  "night": false,
+  "anomaly_start": 14,
+  "anomaly_end": 59,
+  "video_start": 4902,
+  "video_end": 4960,
+  "accident_id": "5",
+  "accident_name": "turning",
+  "labels": [
+    {
+      "frame_id": 0,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000000.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 1,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000001.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 2,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000002.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 3,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000003.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 4,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000004.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 5,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000005.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 6,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000006.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 7,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000007.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 8,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000008.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 9,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000009.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 10,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000010.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 11,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000011.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 12,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000012.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 13,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000013.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 14,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000014.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            299.7402597402597,
+            202.5974025974026,
+            557.4025974025974,
+            388.57142857142856
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000015.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            293.5064935064935,
+            189.0909090909091,
+            578.1818181818181,
+            396.8831168831169
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000016.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            285.1948051948052,
+            181.8181818181818,
+            607.2727272727273,
+            406.23376623376623
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000017.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            278.961038961039,
+            168.3116883116883,
+            639.4805194805194,
+            410.38961038961037
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000018.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            272.72727272727275,
+            156.88311688311688,
+            677.922077922078,
+            421.8181818181818
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000019.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            268.57142857142856,
+            136.1038961038961,
+            718.4415584415584,
+            432.2077922077922
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000020.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            261.2987012987013,
+            118.44155844155844,
+            775.5844155844155,
+            446.7532467532467
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000021.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            258.1818181818182,
+            99.74025974025975,
+            837.922077922078,
+            468.57142857142856
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000022.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            255.06493506493507,
+            67.53246753246754,
+            904.4155844155844,
+            486.23376623376623
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000023.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            252.98701298701297,
+            38.44155844155844,
+            976.1038961038962,
+            510.12987012987014
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000024.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            250.9090909090909,
+            4.1558441558441555,
+            1048.8311688311687,
+            520.5194805194805
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000025.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            250.9090909090909,
+            0,
+            1120.5194805194806,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000026.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            249.87012987012986,
+            0,
+            1189.090909090909,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000027.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            251.94805194805195,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000028.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            257.1428571428571,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000029.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            261.2987012987013,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000030.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            271.68831168831167,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000031.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            283.1168831168831,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000032.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            297.6623376623377,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000033.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            318.4415584415584,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000034.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            350.64935064935065,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000035.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            393.24675324675326,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000036.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            465.97402597402595,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000037.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            536.6233766233767,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000038.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            557.4025974025974,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000039.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            564.6753246753246,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000040.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            595.8441558441558,
+            0,
+            1280.0,
+            518.4415584415584
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000041.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            654.025974025974,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000042.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            713.2467532467532,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000043.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            741.2987012987013,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000044.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            753.7662337662338,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000045.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            749.6103896103896,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000046.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            747.5324675324675,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000047.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000048.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 49,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000049.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 50,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000050.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 51,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000051.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 52,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000052.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 53,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000053.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 54,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000054.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 55,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000055.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 56,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000056.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 57,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000057.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    },
+    {
+      "frame_id": 58,
+      "image_path": "frames/4wKjxDXnmYs_004902/images/000058.jpg",
+      "accident_id": 5,
+      "accident_name": "turning",
+      "objects": [
+        {
+          "obj_track_id": 46,
+          "bbox": [
+            745.4545454545454,
+            3.116883116883116,
+            1280.0,
+            521.5584415584415
+          ],
+          "category": "bus",
+          "category ID": 4,
+          "trunc": true
+        }
+      ]
+    }
+  ]
+}

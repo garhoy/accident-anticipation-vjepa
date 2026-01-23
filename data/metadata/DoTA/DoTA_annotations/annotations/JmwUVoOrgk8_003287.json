@@ -1,0 +1,567 @@
+{
+  "video_name": "JmwUVoOrgk8_003287",
+  "channel": "AnAn",
+  "num_frames": 36,
+  "ignore": false,
+  "ego_involve": true,
+  "night": false,
+  "anomaly_start": 7,
+  "anomaly_end": 30,
+  "video_start": 3287,
+  "video_end": 3322,
+  "accident_id": "6",
+  "accident_name": "pedestrian",
+  "labels": [
+    {
+      "frame_id": 0,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000000.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 1,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000001.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 2,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000002.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 3,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000003.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 4,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000004.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 5,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000005.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 6,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000006.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 7,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000007.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            661.7767653758542,
+            384.8125755743652,
+            737.2209567198177,
+            517.4487471526195
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000008.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            656.8564920273348,
+            389.5216400911161,
+            728.2004555808655,
+            531.3895216400911
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000009.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            650.2961275626423,
+            382.9612756264236,
+            709.3394077448746,
+            545.8769931662869
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000010.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            601.0933940774487,
+            370.66059225512527,
+            729.0205011389521,
+            560.0911161731207
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000011.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            578.9521640091116,
+            371.4806378132118,
+            715.0797266514805,
+            579.7722095671982
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000012.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            574.8519362186788,
+            371.4806378132118,
+            674.0774487471525,
+            624.0546697038724
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000013.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            526.4692482915717,
+            374.76082004555803,
+            654.3963553530751,
+            629.7949886104783
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000014.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            448.5649202733485,
+            366.56036446469244,
+            631.4350797266515,
+            624.0546697038724
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000015.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            392.8018223234624,
+            348.5193621867881,
+            614.2141230068337,
+            627.3348519362186
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000016.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            285.37585421412297,
+            326.378132118451,
+            600.2733485193621,
+            632.255125284738
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000017.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            182.05011389521638,
+            346.879271070615,
+            577.3120728929384,
+            648.6560364464692
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000018.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            159.90888382687925,
+            351.79954441913435,
+            584.6924829157175,
+            641.2756264236901
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000019.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            177.9498861047836,
+            346.0592255125284,
+            559.2710706150341,
+            633.8952164009111
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000020.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            194.3507972665148,
+            357.53986332574027,
+            533.0296127562642,
+            624.874715261959
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000021.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            201.73120728929382,
+            371.4806378132118,
+            505.1480637813211,
+            622.8246013667426
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000022.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            182.05011389521638,
+            399.3621867881549,
+            506.7881548974943,
+            620.7744874715262
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000023.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            195.17084282460135,
+            379.68109339407744,
+            554.3507972665147,
+            628.9749430523917
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000024.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            223.87243735763096,
+            350.97949886104783,
+            496.12756264236896,
+            622.4145785876992
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000025.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            266.5148063781321,
+            340.3189066059225,
+            499.4077448747152,
+            615.0341685649203
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000026.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            298.49658314350796,
+            340.3189066059225,
+            524.8291571753986,
+            605.1936218678815
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000027.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            337.03872437357626,
+            349.3394077448747,
+            511.7084282460136,
+            606.013667425968
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000028.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            332.1184510250569,
+            346.0592255125284,
+            474.8063781321184,
+            607.6537585421412
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000029.jpg",
+      "accident_id": 6,
+      "accident_name": "pedestrian",
+      "objects": [
+        {
+          "obj_track_id": 0,
+          "bbox": [
+            344.41913439635533,
+            330.4783599088838,
+            460.04555808656033,
+            609.2938496583143
+          ],
+          "category": "person",
+          "category ID": 1,
+          "trunc": false
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000030.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 31,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000031.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 32,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000032.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 33,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000033.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 34,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000034.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    },
+    {
+      "frame_id": 35,
+      "image_path": "frames/JmwUVoOrgk8_003287/images/000035.jpg",
+      "accident_id": 0,
+      "accident_name": "normal",
+      "objects": []
+    }
+  ]
+}

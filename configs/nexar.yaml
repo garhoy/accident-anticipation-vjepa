@@ -1,0 +1,48 @@
+# ============================================================================
+# NEXAR COLLISION PREDICTION - CONFIGURACIÓN DE ADAPTADOR
+# ============================================================================
+#
+# OBJETIVO: Definir cómo muestrear los videos (FPS y duración).
+# Esto SÓLO es usado por nexar_adapter.py y create_nexar_metadata.py
+# La configuración del ENCODER (V-JEPA) se define en el script
+# de extracción (extract_video_embeddings.py).
+#
+# ============================================================================
+
+dataset:
+  name: "Nexar"
+  num_classes: 2
+  class_names: ["negative", "positive"]
+
+# ============================================================================
+# PATHS - AJUSTA ESTOS A TU SISTEMA
+# ============================================================================
+paths:
+  # Donde están los videos descargados
+  videos_root: "~/ander/data/raw/Nexar/nexar_collision_prediction/train"
+  
+  # Donde guardarás los CSVs de train/val
+  metadata_root: "~/ander/data/metadata/Nexar"
+  
+  # Donde se guardarán los embeddings extraídos
+  # (Esta ruta la usará extract_video_embeddings.py)
+  embeddings_root: "~/ander/data_exp/vjepa2_tokens/Nexar_s1_hist5"
+
+# ============================================================================
+# PROTOCOLO DE MUESTREO TEMPORAL (COHERENTE CON DAD/CCD/DoTA)
+# ============================================================================
+sampling:
+  # FPS: Frames por segundo a muestrear
+  # - Videos originales: 30 FPS
+  # - RECOMENDADO: 20 FPS (Coherente con DAD)
+  fps: 20
+  
+  # HISTORY_SECONDS: Cuántos segundos de historia tomar
+  # - RECOMENDADO: 5.0 (Coherente con DAD, CCD, DoTA)
+  history_seconds: 5.0
+  
+  # ESTRATEGIA: Cómo tomar los frames
+  # - "tail": Toma los últimos N segundos (perfecto para colisiones)
+  # - "random": Toma N segundos aleatorios (bueno para negativos)
+  positive_strategy: "tail"
+  negative_strategy: "random"
